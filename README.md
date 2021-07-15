@@ -3,7 +3,7 @@
  This is the simple todo list where you can write every task you plan, thick it as done or  remove. 
  You can also thick all tasks as done or remove all done tasks.
 ## DEMO:
-[currency-converter-react](https://it2021db.github.io/todo-list-react/)
+[currency-converter-react](https://it2021db.github.io/Currency-converter-react/)
 ## Technologies used in project:
 * HTML
 * CSS
