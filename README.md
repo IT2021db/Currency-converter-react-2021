@@ -1,7 +1,6 @@
-# todo-list-react
+# Currency-converter-react
 ## About the project:
- This is the simple todo list where you can write every task you plan, thick it as done or  remove. 
- You can also thick all tasks as done or remove all done tasks.
+ This is the simple currency converter from PLN into optionally euros, american dollars or british pounds. 
 ## DEMO:
 [currency-converter-react](https://it2021db.github.io/Currency-converter-react/)
 ## Technologies used in project:
