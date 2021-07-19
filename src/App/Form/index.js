@@ -63,4 +63,5 @@ export const Form = ({ calculateResult, result }) => {
         </form>
     )
 };
+
 export default Form;
