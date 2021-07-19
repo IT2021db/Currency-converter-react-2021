@@ -25,6 +25,7 @@ export const Form = ({ calculateResult, result }) => {
                             onChange={({ target }) => setAmount(target.value)}
                             placeholder="Wpisz kwotę w PLN"
                             type="number"
+                            min="1"
                             step="0.01"
                             required
                         />
